@@ -10,7 +10,7 @@ Este arquivo serve como um índice global para todos os conceitos aprendidos nos
 - **Fundamentos & Hooks (v19)**: [Potigua](./Potigua/react.md) | [BlockForge](./BlockForge/react.md) | [Zyntra](./zyntra-NextHub-Academy/05-react.md)
 - **Context API**: [DevBurguer](./DevBurguer/frontend/context-api.md)
 - **Roteamento (React Router)**: [Potigua](./Potigua/README.md) | [DevBurguer](./DevBurguer/frontend/react-router-dom.md)
-- **Next.js (App Router)**: [Zyntra](./zyntra-NextHub-Academy/01-nextjs.md)
+- **Next.js (App Router)**: [Zyntra](./zyntra-NextHub-Academy/01-nextjs.md) | [Conceitos Next.js](./ConceitosNextJs/GUIA_NEXTJS_COMPLETO.md)
 
 ### Estilização
 - **Styled Components**: [Potigua](./Potigua/libraries.md) | [BlockForge](./BlockForge/styled-components.md) | [DevBurguer](./DevBurguer/frontend/styled-components.md)
